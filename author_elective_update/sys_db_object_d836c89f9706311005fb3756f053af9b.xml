@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt Task</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needit_task</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">9e5a170bb4232110320f8dc279c804ec</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 21:09:24</sys_created_on>
+        <sys_id>d836c89f9706311005fb3756f053af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Needit Task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_d836c89f9706311005fb3756f053af9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 21:09:24</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2150557d1bf7e450e84d2f8dee4bcb77</instance_id>
+        <instance_name>dev112740</instance_name>
+        <name>sys_db_object_d836c89f9706311005fb3756f053af9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>NeedIt Task</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needit_task</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">9e5a170bb4232110320f8dc279c804ec</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 21:09:24</sys_created_on><sys_id>d836c89f9706311005fb3756f053af9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needit Needit Task</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_d836c89f9706311005fb3756f053af9b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 21:09:24</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1822722312</payload_hash>
+        <record_name>NeedIt Task</record_name>
+        <reverted_from/>
+        <source>60966b329702311005fb3756f053af19</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-27 00:12:46</sys_created_on>
+        <sys_id>74360c9f9706311005fb3756f053afcb</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b6e79ec300000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table</type>
+        <update_guid>34360c9f9b06311093dc459fc76fa9cb</update_guid>
+        <update_guid_history>34360c9f9b06311093dc459fc76fa9cb:1822722312</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 19:36:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>1ca79768a92846d49bfc832764b94684</sys_id>
+        <sys_metadata>d836c89f9706311005fb3756f053af9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_d836c89f9706311005fb3756f053af9b</sys_update_name>
+        <sys_update_version display_value="sys_db_object_d836c89f9706311005fb3756f053af9b">74360c9f9706311005fb3756f053afcb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 19:36:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
